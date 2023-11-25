@@ -13,7 +13,7 @@ ___
 ___
 # Навыки:
 - __Python:__ numpy, matplotlib, pandas, seaborn, scikit-learn, 
-  keras, PyQt5, aiogram, Pep8, Jupyter Notebook, Google Colab
+  keras, PyQt5-6, Tkinter, aiogram, Pep8, Jupyter Notebook, Google Colab
 - __SQL__: PostgreSQL, SQLite
 - __OS__: Linux, Ubuntu
 - __Eng__: B1
